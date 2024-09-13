@@ -1,0 +1,57 @@
+React
+
+---why?
+trend,job,build UI
+makes easy to manage $bulid complex frontend
+
+
+---when lean?
+after mastering js
+most resct don't need in initial phase
+
+
+---why react was create?
+ghost problem 
+facebook chat count notification
+
+state -> JS  & UI -> DOM
+js-dom =sync
+
+khan Academy -> unsplash
+
+
+---React learning process
+-> go in depth 
+     ->babel,fibre,virtual dom,diff algo hydration
+
+-> project
+    -> by macking projects (one topic of one time)     
+       todo, calculator, github API
+
+
+---React library
+   framework  VS library
+
+
+---Topics to learning
+    ->core of React (state or UI manipulation ,JSX)
+    ->component resubility
+    ->Resusing of component (props)
+    ->hoe to proprgate chnage( hooks)
+
+---Additional addon to React
+    ->Router (React don't have router)
+    ->state management (React don't have state management)
+       ->REdex , Redux toolkit, zustand , context API
+    ->Class bacsed component
+        ->   
+    ->BAAS Apps
+        -> social meadia clone, e-commerace App
+
+
+--- After React
+    ->React is not a complete soulation in most case
+        -> no seo, brower Render of Js , no routing
+    ->Framework 
+         ->Next JS, Gatsby, REmix    
+
